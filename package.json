@@ -1,0 +1,22 @@
+{
+  "name": "noughtsandcrosses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvarcas/noughtsandcrosses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielvarcas/noughtsandcrosses/issues"
+  },
+  "homepage": "https://github.com/danielvarcas/noughtsandcrosses#readme",
+  "devDependencies": {
+    "cypress": "^3.1.3"
+  }
+}
